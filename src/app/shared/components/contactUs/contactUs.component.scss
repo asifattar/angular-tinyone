@@ -1,0 +1,32 @@
+.contact{
+    background-color: black;
+    
+    .heading{
+            font-size: 2rem;
+            color: #fcdb00;
+        }
+        .para{
+            font-size: 1.25rem;
+            color: #898989;
+            margin-bottom: 2.5rem;
+        }
+       .form{
+        margin-bottom: 5rem;
+       }
+       .btncolor{
+        background-color: #fcdb00;
+        color: #000000;
+        font-weight: 600;
+       }
+}
+
+.social-Icons li{
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.social-Icons li a{
+    color: #fcdb00;
+    font-size: 35px;
+}
+

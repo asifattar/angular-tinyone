@@ -1,0 +1,31 @@
+.brandlink li{
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+.brandlink li i{
+    font-size: 2.5rem;
+    color: #010101;
+
+}
+
+.inspirationSec{
+    margin-top: 4.375rem;
+
+    .main-heading{
+        font-size: 2rem;
+        font-weight: bold;
+        margin-bottom: 1.563rem;
+    }
+    .Secondry-hed{
+        color: #313841;
+        font-size: 1.25rem;
+        margin-bottom: 1.563rem;
+    }
+    .para{
+        color: #555555;
+        font-size: 1rem;
+        margin-bottom: 2.625rem;
+    }
+
+}
